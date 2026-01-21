@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=180&section=header&text=WELCOME%20TO%20MY%20PORTFOLIO&fontSize=30&fontColor=ffffff&fontAlignY=40" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=180&section=header&text=Danh%20S%C3%A1ch%20B%C3%A0i%20T%E1%BA%ADp%20Thi%E1%BA%BFt%20K%E1%BA%BF%20Web&fontSize=30&fontColor=ffffff&fontAlignY=40" width="100%">
 </div>
 
 > <div align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 KHO TÀNG BÀI TẬP (PROJECTS)
+## 📂 BÀI TẬP (PROJECTS)
 
 | 📸 VISUAL PREVIEW (Ảnh minh họa) | 📄 PROJECT DETAILS (Thông tin chi tiết) |
 | :--- | :--- |
