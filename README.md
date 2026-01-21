@@ -1,12 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=180&section=header&text=Danh%20S%C3%A1ch%20B%C3%A0i%20T%E1%BA%ADp%20Thi%E1%BA%BFt%20K%E1%BA%BF%20Web&fontSize=30&fontColor=ffffff&fontAlignY=40" width="100%">
 </div>
+<div align="center">
 
-> <div align="center">
-> Sinh viên thực hiện: Trần Văn Việt Anh<br>
-> Mã Sinh Viên: 63131839<br>
-> Lớp: 66.CNTT <br> Môn học: Thiết kế Web
-> </div>
+$\color{#2F6364}\text{\LARGE Sinh viên: Trần Văn Việt Anh}$
+
+$\color{#2F6364}\text{\Large MSSV: 63131839}$  |  $\color{#2F6364}\text{\Large Môn: Thiết Kế Web}$
+
+</div>
 
 <div align="center">
   <br>
@@ -17,16 +18,15 @@
 </div>
 
 ---
+## 📂 PROJECTS
 
-## 📂 BÀI TẬP (PROJECTS)
-
-| 📸 VISUAL PREVIEW (Ảnh minh họa) | 📄 PROJECT DETAILS (Thông tin chi tiết) |
+| PREVIEW | INFORMATION |
 | :--- | :--- |
-| <img src="https://placehold.co/600x400/2ecc71/ffffff?text=Bai+1:+Navbar+Preview" width="100%" style="border-radius: 8px;"> | ### 🌟 01. The Navigation Bar <br><br> ![Status](https://img.shields.io/badge/Trạng_Thái-Hoàn_Thành-success?style=flat-square) <br><br> **📝 Mô tả:** <br> *Thiết kế thanh điều hướng website responsive, sử dụng Flexbox để bố cục menu, logo và user profile.* <br><br> **✨ Tính năng nổi bật:** <br> - [x] Responsive trên Mobile/Tablet <br> - [x] Hiệu ứng Hover chuyển màu mượt mà <br> - [x] Chuẩn HTML Semantic <br><br> [![View Code](https://img.shields.io/badge/👉_BẤM_VÀO_ĐÂY_ĐỂ-XEM_SOURCE_CODE-007ACC?style=for-the-badge&logo=github)](./Bai1_Navbar) |
-| <img src="https://placehold.co/600x400/3498db/ffffff?text=Bai+2:+Login+Preview" width="100%" style="border-radius: 8px;"> | ### 💎 02. Glassmorphism Login UI <br><br> ![Status](https://img.shields.io/badge/Trạng_Thái-Đang_Làm-orange?style=flat-square) <br><br> **📝 Mô tả:** <br> *Form đăng nhập hiện đại mang phong cách "Kính mờ" (Glassmorphism) đang là xu hướng.* <br><br> **✨ Tính năng nổi bật:** <br> - [x] Hiệu ứng nền mờ (Backdrop filter) <br> - [ ] Validate (kiểm tra) dữ liệu nhập <br> - [x] Tích hợp icon mạng xã hội <br><br> [![View Code](https://img.shields.io/badge/👉_BẤM_VÀO_ĐÂY_ĐỂ-XEM_SOURCE_CODE-007ACC?style=for-the-badge&logo=github)](./Bai2_Login) |
-| <img src="https://placehold.co/600x400/95a5a6/ffffff?text=Coming+Soon..." width="100%" style="border-radius: 8px;"> | ### 🚧 03. Sắp Ra Mắt... <br><br> ![Status](https://img.shields.io/badge/Trạng_Thái-Waiting-lightgrey?style=flat-square) <br><br> **📝 Mô tả:** <br> *Đang cập nhật bài tập mới...* <br><br><br><br> *Keep coding, keep creating!* |
+| <img src="https://placehold.co/600x400/F0EEE9/2F6364?text=01.+Navbar" width="100%" style="border-radius: 4px;"> | <br>**01. THE NAVIGATION BAR**<br><br>Thiết kế menu điều hướng Responsive với hiệu ứng Hover hiện đại.<br><br>🔗 [**Xem Source Code**](./Bai1_Navbar) |
+| <img src="https://placehold.co/600x400/F0EEE9/2F6364?text=02.+Login+UI" width="100%" style="border-radius: 4px;"> | <br>**02. GLASSMORPHISM LOGIN**<br><br>Giao diện đăng nhập phong cách kính mờ (Glassmorphism).<br><br>🔗 [**Xem Source Code**](./Bai2_Login) |
+| <img src="https://placehold.co/600x400/F5F5F5/999999?text=Coming+Soon" width="100%" style="border-radius: 4px;"> | <br>**03. COMING SOON...**<br><br>Đang cập nhật bài tập mới.<br><br>🚧 *Đang thi công* |
 
 ---
 <div align="center">
-  <i>Cảm ơn Thầy/Cô đã ghé thăm! Have a nice day! ☕</i>
+  <i>Have a nice day! 🔥🔥🔥</i>
 </div>
