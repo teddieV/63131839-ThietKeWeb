@@ -4,9 +4,9 @@
 <div align="center">
 <img src="./images/Logo_NTU.png" width="80" alt="Logo NTU">
 
-$\color{#2F6364}\text{\LARGE Sinh viên: Trần Văn Việt Anh}$
+$\color{#4b3935}\text{\LARGE Sinh viên: Trần Văn Việt Anh}$
 
-$\color{#2F6364}\text{\Large MSSV: 63131839}$  |  $\color{#2F6364}\text{\Large Môn: Thiết Kế Web}$
+$\color{#4b3935}\text{\Large MSSV: 63131839}$  |  $\color{#4b3935}\text{\Large Môn: Thiết Kế Web}$
 
 </div>
 
@@ -23,7 +23,8 @@ $\color{#2F6364}\text{\Large MSSV: 63131839}$  |  $\color{#2F6364}\text{\Large M
 
 | PREVIEW | INFORMATION |
 | :--- | :--- |
-| <img src="images/Lab1_bai1_preview.png" width="100%" style="border-radius: 4px;"> | <br>**Bài 1. Sử dụng thẻ Table dể tạo Layout**<br><br>Bài 1. Sử dụng thẻ table dể tạo layout.<br><br>🔗 [**Xem Source Code**](./Lab1_Bai1_TranVanVietAnh_63131839.html) |
+| <img src="images/Lab1_bai1_preview.png" width="100%" style="border-radius: 4px;"> | <br>**Lab 1- Bài 1. Sử dụng thẻ Table dể tạo Layout**<br><br> Sử dụng thẻ table dể tạo layout như header , footer , sidebar right-left,...<br><br>🔗 [**Xem Source Code**](./Lab1_Bai1_TranVanVietAnh_63131839.html) |
+| <img src="images/bai1_introduce_preview.png" width="100%" style="border-radius: 4px;"> | <br>**Bai1.html. Giới Thiệu Bản Thân**<br><br>Bài Tập Giới Thiệu bản thân.<br><br>🔗 [**Xem Source Code**](./bai1.html) |
 
 
 ---
