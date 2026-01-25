@@ -23,7 +23,7 @@ $\color{#2F6364}\text{\Large MSSV: 63131839}$  |  $\color{#2F6364}\text{\Large M
 
 | PREVIEW | INFORMATION |
 | :--- | :--- |
-| <img src="images/Lab1_bai1_preview.png" width="100%" style="border-radius: 4px;"> | <br>**Bài 1. Sử dụng thẻ Table dể tạo Layout**<br><br>Bài 1. Sử dụng thẻ table dể tạo layout.<br><br>🔗 [**Xem Source Code**](./Lab1_Bai1_TranVanVietAnh_63131839.html) |
+| <img src="images/Lab1_bai1_preview.png" width="100%" style="border-radius: 4px;"> | <br>**Bài 1. Sử dụng thẻ Table dể tạo Layout**<br><br>Bài 1. Sử dụng thẻ table dể tạo layout.<br><br>🔗 [**Xem Source Code**](./Lab1/Lab1_Bai1_TranVanVietAnh_63131839.html) |
 
 
 ---
