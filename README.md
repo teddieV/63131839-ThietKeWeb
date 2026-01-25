@@ -27,6 +27,7 @@ $\color{#4b3935}\text{\Large MSSV: 63131839}$  |  $\color{#4b3935}\text{\Large M
 | <img src="images/bai1_introduce_preview.png" width="100%" style="border-radius: 4px;"> | <br>**Bai1.html. Giới Thiệu Bản Thân**<br><br>Bài Tập Giới Thiệu bản thân.<br><br>🔗 [**Xem Source Code**](./bai1.html) |
 
 
+
 ---
 <div align="center">
   <i>🔥🔥🔥</i>
