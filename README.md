@@ -23,7 +23,7 @@ $\color{#2F6364}\text{\Large MSSV: 63131839}$  |  $\color{#2F6364}\text{\Large M
 
 | PREVIEW | INFORMATION |
 | :--- | :--- |
-| <img src="https://placehold.co/600x400/F0EEE9/2F6364?text=01.+Navbar" width="100%" style="border-radius: 4px;"> | <br>**01. THE NAVIGATION BAR**<br><br>Thiết kế menu điều hướng Responsive với hiệu ứng Hover hiện đại.<br><br>🔗 [**Xem Source Code**](./Bai1_Navbar) |
+| <img src="images/Lab1_bai1_preview.png" width="100%" style="border-radius: 4px;"> | <br>**Bài 1. Sử dụng thẻ Table dể tạo Layout**<br><br>Bài 1. Sử dụng thẻ table dể tạo layout.<br><br>🔗 [**Xem Source Code**](./Lab1_Bai1_TranVanVietAnh_63131839.html) |
 | <img src="https://placehold.co/600x400/F0EEE9/2F6364?text=02.+Login+UI" width="100%" style="border-radius: 4px;"> | <br>**02. GLASSMORPHISM LOGIN**<br><br>Giao diện đăng nhập phong cách kính mờ (Glassmorphism).<br><br>🔗 [**Xem Source Code**](./Bai2_Login) |
 | <img src="https://placehold.co/600x400/F5F5F5/999999?text=Coming+Soon" width="100%" style="border-radius: 4px;"> | <br>**03. COMING SOON...**<br><br>Đang cập nhật bài tập mới.<br><br>🚧 *Đang thi công* |
 
